@@ -1,3 +1,4 @@
+<img src="freepik__upload__68151.png" alt="GitHub Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Aditya Pandey</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
